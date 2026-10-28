@@ -4,4 +4,5 @@ ICE 3 Pair Programming Exercise for MIS 58710.
 
 ## Team Members
 
-- TBD
+- **Alice Smith**: Favorite movie: The Dark Knight
+
